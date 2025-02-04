@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "Computer networks" << std::endl;
+    std::cout << "veeriah sir is best!" << std::endl;
     return 0;
 }
